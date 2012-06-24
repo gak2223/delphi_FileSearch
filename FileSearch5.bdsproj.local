@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010/01/21 17:00:20.721.pas,C:\Documents and Settings\itoh\My Documents\Borland Studio Projects\Unit3.pas=C:\Documents and Settings\itoh\My Documents\Borland Studio Projects\FileSearch\Unit3.pas</Transaction>
+    <Transaction>2010/01/21 17:00:20.721.dfm,C:\Documents and Settings\itoh\My Documents\Borland Studio Projects\Unit3.dfm=C:\Documents and Settings\itoh\My Documents\Borland Studio Projects\FileSearch\Unit3.dfm</Transaction>
+    <Transaction>2010/01/21 17:04:54.590.bdsproj,C:\Documents and Settings\itoh\My Documents\Borland Studio Projects\Project3.bdsproj=C:\Documents and Settings\itoh\My Documents\Borland Studio Projects\FileSearch\Project3.bdsproj</Transaction>
+    <Transaction>2010/01/23 15:09:46.375.pas,C:\Documents and Settings\ito\My Documents\Borland Studio Projects\FileSearch\Unit3.pas=C:\Documents and Settings\ito\My Documents\Borland Studio Projects\FileSearch\formMain.pas</Transaction>
+    <Transaction>2010/01/23 15:09:46.375.dfm,C:\Documents and Settings\ito\My Documents\Borland Studio Projects\FileSearch\Unit3.dfm=C:\Documents and Settings\ito\My Documents\Borland Studio Projects\FileSearch\formMain.dfm</Transaction>
+    <Transaction>2010/01/26 16:39:16.828.pas,C:\Documents and Settings\ito\My Documents\Borland Studio Projects\FileSearch2\Unit1.pas=C:\Documents and Settings\ito\My Documents\Borland Studio Projects\FileSearch2\formResult.pas</Transaction>
+    <Transaction>2010/01/26 16:39:16.828.dfm,C:\Documents and Settings\ito\My Documents\Borland Studio Projects\FileSearch2\Unit1.dfm=C:\Documents and Settings\ito\My Documents\Borland Studio Projects\FileSearch2\formResult.dfm</Transaction>
+    <Transaction>2010/01/27 13:26:06.687.pas,C:\Documents and Settings\ito\My Documents\Borland Studio Projects\FileSearch3\Unit1.pas=C:\Documents and Settings\ito\My Documents\Borland Studio Projects\FileSearch3\formProgress.pas</Transaction>
+    <Transaction>2010/01/27 13:26:06.687.dfm,C:\Documents and Settings\ito\My Documents\Borland Studio Projects\FileSearch3\Unit1.dfm=C:\Documents and Settings\ito\My Documents\Borland Studio Projects\FileSearch3\formProgress.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
